@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mahesh Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+	👋 Hello , I am Patil Mahesh
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilmahesh007&label=Profile%20views&color=0e75b6&style=flat" alt="patilmahesh007" /> </p>
+<div style=" display:flex; justify-Content:center; align-items:center;">
+  
+<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
+</div>
+<h3 align="center">Coding and tech enthusiast, always striving to push the boundaries. Proficient in C, HTML, CSS. Let's create something revolutionary!</h3>
 
-- 📫 How to reach me **patilmahesh4007@gmail.com**
+<div style=" display:flex; justify-content:center; align-items:center;"> 
+	<img style="width: 100vw;" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"><img alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-<p align="left">
 <a href="https://instagram.com/__mahesh_patil_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mahesh_patil_07" height="30" width="40" /></a>
 </p>
 
