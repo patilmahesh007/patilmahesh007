@@ -6,8 +6,8 @@
 - 📫 How to reach me **patilmahesh4007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
-<img align="left "alt="coding" width="400px" src="https://i.pinimg.com/originals/68/43/cc/6843cc365df18febde115bc70eb15290.gif">
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"><img alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 <p align="left">
 <a href="https://instagram.com/__mahesh_patil_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mahesh_patil_07" height="30" width="40" /></a>
 </p>
